@@ -1,5 +1,8 @@
 <h1 style="text-align: center;">Dataset: Tennis Grand Slam Winners</h1>
 
+## UpSet Introduction
+This UpSet plot shows tennis grand slam tournaments and their winners. A winner can win multiple tournaments. The sets are grand slam tournaments. The items are grand slam winners. The intersections show how many winners won exactly the same tournaments.
+
 ## Dataset Properties
 The dataset contains 4 sets and 208 elements, of which 4 sets are shown in the plot.
 

@@ -20,6 +20,8 @@
         <img style="width: 500px;" src="./assets/VO3.png" alt="Tennis Grand Slam Winners">
     </div>
     <div class="column">
+        <h2>UpSet Introduction</h2>
+        This UpSet plot shows tennis grand slam tournaments and their winners. A winner can win multiple tournaments. The sets are grand slam tournaments. The items are grand slam winners. The intersections show how many winners won exactly the same tournaments.
         <h2>Dataset Properties</h2>
         <p>The dataset contains 4 sets and 208 elements, of which 4 sets are shown in the plot.</p>
         <h2>Set Properties</h2>

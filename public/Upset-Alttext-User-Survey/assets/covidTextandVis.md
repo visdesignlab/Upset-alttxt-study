@@ -20,6 +20,8 @@
         <img style="width: 500px;" src="./assets/VO1.png" alt="Description of Image">
     </div>
     <div class="column">
+        <h2>UpSet Introduction</h2>
+        This UpSet plot shows covid cases and their symptoms. A covid case can have multiple symptoms. The sets are covid symptoms. The items are covid cases. The intersections show how many covid cases have exactly the same symptomps.
         <h2>Dataset Properties</h2>
         <p>The dataset contains 6 sets and 4340 elements, of which 6 sets are shown in the plot.</p>
         <h2>Set Properties</h2>

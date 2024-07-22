@@ -25,7 +25,7 @@ Sometimes you will see both the visualization and the text, in the "Visualizatio
     </div>
     <div class="column">
         <h2>Dataset Introduction</h2>
-        This UpSet plot shows movies and their genres. The sets are movie genres. The items are movies.
+        This UpSet plot shows movies and their genres. A movie can have multiple genres. The sets are movie genres. The items are movies. The intersections show how many movies have exactly the same genres.
         <h2>Dataset Properties</h2>
         <p>The dataset contains 17 sets and 6303 elements, of which 8 sets are shown in the plot.</p>
         <h2>Set Properties</h2>

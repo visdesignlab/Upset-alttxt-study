@@ -20,6 +20,8 @@
         <img style="width: 500px;" src="./assets/VO2.png" alt="Description of Image">
     </div>
     <div class="column">
+        <h2>UpSet Introduction</h2>
+        This UpSet plot shows game of thrones characters and their identities. A character can have multiple identities (houses, gender, killing condition,etc.). The sets are identities. The items are game of thrones characters. The intersections show how many characters have exactly the same identities.
         <h2>Dataset Properties</h2>
         <p>The dataset contains 20 sets and 238 elements, of which 7 sets are shown in the plot.</p>
         <h2>Set Properties</h2>

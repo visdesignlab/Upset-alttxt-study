@@ -1,5 +1,9 @@
 <h1 style="text-align: center;">Dataset: Game of Thrones</h1>
 
+## UpSet Introduction
+
+This UpSet plot shows game of thrones characters and their identities. A character can have multiple identities (houses, gender, killing condition,etc.). The sets are identities. The items are game of thrones characters. The intersections show how many characters have exactly the same identities.
+
 ## Dataset Properties
 
 The dataset contains 20 sets and 238 elements, of which 7 sets are shown in the plot.
