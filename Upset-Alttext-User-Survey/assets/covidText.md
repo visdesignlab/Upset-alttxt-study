@@ -1,5 +1,8 @@
 <h1 style="text-align: center;">Dataset: Covid Symptoms</h1>
 
+## UpSet Introduction
+This UpSet plot shows covid cases and their symptoms. A covid case can have multiple symptoms. The sets are covid symptoms. The items are covid cases. The intersections show how many covid cases have exactly the same symptomps.
+
 ## Dataset Properties
 
 The dataset contains 6 sets and 4340 elements, of which 6 sets are shown in the plot.

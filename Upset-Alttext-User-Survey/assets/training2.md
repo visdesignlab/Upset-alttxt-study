@@ -5,7 +5,7 @@ Sometimes you will see a text description of the plot, without a chart. We call 
 <h1 style="text-align: center;">Dataset: Movie Genres</h1>
 
 ## UpSet Introduction
-This UpSet plot shows movies and their genres. The sets are movie genres. The items are movies.
+This UpSet plot shows movies and their genres. A movie can have multiple genres. The sets are movie genres. The items are movies. The intersections show how many movies have exactly the same genres.
 
 ## Dataset Properties
 The dataset contains 17 sets and 6303 elements, of which 5 sets are shown in the plot.
