@@ -314,7 +314,7 @@
                 {
                     "id": "2",
                     "prompt": "What is the largest intersection?",
-                    "secondaryText": "Select all Sets in the Intersection.",
+                    "secondaryText": "Select all Sets in the Intersection",
                     "required": true,
                     "location": "sidebar",
                     "type": "checkbox",
@@ -360,15 +360,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "It is only of a single set.",
+                            "label": "It is only of a single set",
                             "value": "Independent set"
                         },
                         {
-                            "label": "It is the intersection of 2-3 sets.",
+                            "label": "It is the intersection of 2-3 sets",
                             "value": "Low set"
                         },
                         {
-                            "label": "It is the intersection of many sets.",
+                            "label": "It is the intersection of many sets",
                             "value": "Medium / High order set"
                         },
                         {
@@ -434,7 +434,7 @@
                 {
                     "id": "2",
                     "prompt": "What is the largest intersection?",
-                    "secondaryText": "Select all Sets in the Intersection.",
+                    "secondaryText": "Select all Sets in the Intersection",
                     "required": true,
                     "location": "sidebar",
                     "type": "checkbox",
@@ -476,15 +476,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "It is only of a single set.",
+                            "label": "It is only of a single set",
                             "value": "Independent set"
                         },
                         {
-                            "label": "It is the intersection of 2-3 sets.",
+                            "label": "It is the intersection of 2-3 sets",
                             "value": "Low set"
                         },
                         {
-                            "label": "It is the intersection of many sets.",
+                            "label": "It is the intersection of many sets",
                             "value": "Medium / High order set"
                         },
                         {
@@ -562,7 +562,7 @@
                 {
                     "id": "2",
                     "prompt": "What is the largest intersection?",
-                    "secondaryText": "Select all Sets in the Intersection.",
+                    "secondaryText": "Select all Sets in the Intersection",
                     "required": true,
                     "location": "sidebar",
                     "type": "checkbox",
@@ -616,15 +616,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "It is only of a single set.",
+                            "label": "It is only of a single set",
                             "value": "Independent set"
                         },
                         {
-                            "label": "It is the intersection of 2-3 sets.",
+                            "label": "It is the intersection of 2-3 sets",
                             "value": "Low set"
                         },
                         {
-                            "label": "It is the intersection of many sets.",
+                            "label": "It is the intersection of many sets",
                             "value": "Medium / High order set"
                         },
                         {
@@ -714,7 +714,7 @@
                 {
                     "id": "voq3",
                     "prompt": "What is the largest intersection?",
-                    "secondaryText": "Select all Sets in the Intersection.",
+                    "secondaryText": "Select all Sets in the Intersection",
                     "required": true,
                     "location": "sidebar",
                     "type": "checkbox",
@@ -765,15 +765,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "It is only of a single set.",
+                            "label": "It is only of a single set",
                             "value": "Independent set"
                         },
                         {
-                            "label": "It is the intersection of 2-3 sets.",
+                            "label": "It is the intersection of 2-3 sets",
                             "value": "Low set"
                         },
                         {
-                            "label": "It is the intersection of many sets.",
+                            "label": "It is the intersection of many sets",
                             "value": "Medium / High order set"
                         },
                         {
@@ -792,15 +792,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "Roughly equal (all the set sizes look similar).",
+                            "label": "Roughly equal (all the set sizes look similar)",
                             "value": "Identical"
                         },
                         {
-                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely).",
+                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
                             "value": "Diverging a bit"
                         },
                         {
-                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely).",
+                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)",
                             "value": "Diverging a lot"
                         }
                     ]
@@ -904,8 +904,8 @@
                 },
                 {
                     "id": "voq3",
-                    "prompt": "What is the largest intersection? ",
-                    "secondaryText": "Select all sets in the intersection",
+                    "prompt": "What is the largest intersection?",
+                    "secondaryText": "Select all Sets in the intersection",
                     "required": true,
                     "location": "sidebar",
                     "type": "checkbox",
@@ -956,15 +956,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "It is only of a single set.",
+                            "label": "It is only of a single set",
                             "value": "Independent set"
                         },
                         {
-                            "label": "It is the intersection of 2-3 sets.",
+                            "label": "It is the intersection of 2-3 sets",
                             "value": "Low set"
                         },
                         {
-                            "label": "It is the intersection of many sets.",
+                            "label": "It is the intersection of many sets",
                             "value": "Medium / High order set"
                         },
                         {
@@ -983,15 +983,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "Roughly equal (all the set sizes look similar).",
+                            "label": "Roughly equal (all the set sizes look similar)",
                             "value": "Identical"
                         },
                         {
-                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely).",
+                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
                             "value": "Diverging a bit"
                         },
                         {
-                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely).",
+                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)",
                             "value": "Diverging a lot"
                         }
                     ]
@@ -1095,7 +1095,7 @@
                 {
                     "id": "voq3",
                     "prompt": "What is the largest intersection?",
-                    "secondaryText": "Select all Sets in the Intersection.",
+                    "secondaryText": "Select all Sets in the Intersection",
                     "required": true,
                     "location": "sidebar",
                     "type": "checkbox",
@@ -1146,15 +1146,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "It is only of a single set.",
+                            "label": "It is only of a single set",
                             "value": "Independent set"
                         },
                         {
-                            "label": "It is the intersection of 2-3 sets.",
+                            "label": "It is the intersection of 2-3 sets",
                             "value": "Low set"
                         },
                         {
-                            "label": "It is the intersection of many sets.",
+                            "label": "It is the intersection of many sets",
                             "value": "Medium / High order set"
                         },
                         {
@@ -1173,15 +1173,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "Roughly equal (all the set sizes look similar).",
+                            "label": "Roughly equal (all the set sizes look similar)",
                             "value": "Identical"
                         },
                         {
-                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely).",
+                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
                             "value": "Diverging a bit"
                         },
                         {
-                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely).",
+                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)",
                             "value": "Diverging a lot"
                         }
                     ]
@@ -1276,7 +1276,7 @@
                 {
                     "id": "voq3",
                     "prompt": "What is the largest intersection?",
-                    "secondaryText": "Select all Sets in the Intersection.",
+                    "secondaryText": "Select all Sets in the Intersection",
                     "required": true,
                     "location": "sidebar",
                     "type": "checkbox",
@@ -1318,15 +1318,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "It is only of a single set.",
+                            "label": "It is only of a single set",
                             "value": "Independent set"
                         },
                         {
-                            "label": "It is the intersection of 2-3 sets.",
+                            "label": "It is the intersection of 2-3 sets",
                             "value": "Low set"
                         },
                         {
-                            "label": "It is the intersection of many sets.",
+                            "label": "It is the intersection of many sets",
                             "value": "Medium / High order set"
                         },
                         {
@@ -1345,15 +1345,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "Roughly equal (all the set sizes look similar).",
+                            "label": "Roughly equal (all the set sizes look similar)",
                             "value": "Identical"
                         },
                         {
-                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely).",
+                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
                             "value": "Diverging a bit"
                         },
                         {
-                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely).",
+                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)",
                             "value": "Diverging a lot"
                         }
                     ]
@@ -1448,7 +1448,7 @@
                 {
                     "id": "voq3",
                     "prompt": "What is the largest intersection?",
-                    "secondaryText": "Select all Sets in the Intersection.",
+                    "secondaryText": "Select all Sets in the Intersection",
                     "required": true,
                     "location": "sidebar",
                     "type": "checkbox",
@@ -1490,15 +1490,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "It is only of a single set.",
+                            "label": "It is only of a single set",
                             "value": "Independent set"
                         },
                         {
-                            "label": "It is the intersection of 2-3 sets.",
+                            "label": "It is the intersection of 2-3 sets",
                             "value": "Low set"
                         },
                         {
-                            "label": "It is the intersection of many sets.",
+                            "label": "It is the intersection of many sets",
                             "value": "Medium / High order set"
                         },
                         {
@@ -1517,15 +1517,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "Roughly equal (all the set sizes look similar).",
+                            "label": "Roughly equal (all the set sizes look similar)",
                             "value": "Identical"
                         },
                         {
-                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely).",
+                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
                             "value": "Diverging a bit"
                         },
                         {
-                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely).",
+                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)",
                             "value": "Diverging a lot"
                         }
                     ]
@@ -1620,7 +1620,7 @@
                 {
                     "id": "voq3",
                     "prompt": "What is the largest intersection?",
-                    "secondaryText": "Select all Sets in the Intersection.",
+                    "secondaryText": "Select all Sets in the Intersection",
                     "required": true,
                     "location": "sidebar",
                     "type": "checkbox",
@@ -1662,15 +1662,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "It is only of a single set.",
+                            "label": "It is only of a single set",
                             "value": "Independent set"
                         },
                         {
-                            "label": "It is the intersection of 2-3 sets.",
+                            "label": "It is the intersection of 2-3 sets",
                             "value": "Low set"
                         },
                         {
-                            "label": "It is the intersection of many sets.",
+                            "label": "It is the intersection of many sets",
                             "value": "Medium / High order set"
                         },
                         {
@@ -1689,15 +1689,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "Roughly equal (all the set sizes look similar).",
+                            "label": "Roughly equal (all the set sizes look similar)",
                             "value": "Identical"
                         },
                         {
-                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely).",
+                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
                             "value": "Diverging a bit"
                         },
                         {
-                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely).",
+                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)",
                             "value": "Diverging a lot"
                         }
                     ]
@@ -1804,7 +1804,7 @@
                 {
                     "id": "voq3",
                     "prompt": "What is the largest intersection?",
-                    "secondaryText": "Select all Sets in the Intersection.",
+                    "secondaryText": "Select all Sets in the Intersection",
                     "required": true,
                     "location": "sidebar",
                     "type": "checkbox",
@@ -1859,15 +1859,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "It is only of a single set.",
+                            "label": "It is only of a single set",
                             "value": "Independent set"
                         },
                         {
-                            "label": "It is the intersection of 2-3 sets.",
+                            "label": "It is the intersection of 2-3 sets",
                             "value": "Low set"
                         },
                         {
-                            "label": "It is the intersection of many sets.",
+                            "label": "It is the intersection of many sets",
                             "value": "Medium / High order set"
                         },
                         {
@@ -1886,15 +1886,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "Roughly equal (all the set sizes look similar).",
+                            "label": "Roughly equal (all the set sizes look similar)",
                             "value": "Identical"
                         },
                         {
-                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely).",
+                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
                             "value": "Diverging a bit"
                         },
                         {
-                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely).",
+                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)",
                             "value": "Diverging a lot"
                         }
                     ]
@@ -2002,7 +2002,7 @@
                 {
                     "id": "voq3",
                     "prompt": "What is the largest intersection?",
-                    "secondaryText": "Select all Sets in the Intersection.",
+                    "secondaryText": "Select all Sets in the Intersection",
                     "required": true,
                     "location": "sidebar",
                     "type": "checkbox",
@@ -2057,15 +2057,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "It is only of a single set.",
+                            "label": "It is only of a single set",
                             "value": "Independent set"
                         },
                         {
-                            "label": "It is the intersection of 2-3 sets.",
+                            "label": "It is the intersection of 2-3 sets",
                             "value": "Low set"
                         },
                         {
-                            "label": "It is the intersection of many sets.",
+                            "label": "It is the intersection of many sets",
                             "value": "Medium / High order set"
                         },
                         {
@@ -2084,15 +2084,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "Roughly equal (all the set sizes look similar).",
+                            "label": "Roughly equal (all the set sizes look similar)",
                             "value": "Identical"
                         },
                         {
-                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely).",
+                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
                             "value": "Diverging a bit"
                         },
                         {
-                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely).",
+                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)",
                             "value": "Diverging a lot"
                         }
                     ]
@@ -2200,7 +2200,7 @@
                 {
                     "id": "voq3",
                     "prompt": "What is the largest intersection?",
-                    "secondaryText": "Select all Sets in the Intersection.",
+                    "secondaryText": "Select all Sets in the Intersection",
                     "required": true,
                     "location": "sidebar",
                     "type": "checkbox",
@@ -2255,15 +2255,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "It is only of a single set.",
+                            "label": "It is only of a single set",
                             "value": "Independent set"
                         },
                         {
-                            "label": "It is the intersection of 2-3 sets.",
+                            "label": "It is the intersection of 2-3 sets",
                             "value": "Low set"
                         },
                         {
-                            "label": "It is the intersection of many sets.",
+                            "label": "It is the intersection of many sets",
                             "value": "Medium / High order set"
                         },
                         {
@@ -2282,15 +2282,15 @@
                     "placeholder": "Please choose your answer",
                     "options": [
                         {
-                            "label": "Roughly equal (all the set sizes look similar).",
+                            "label": "Roughly equal (all the set sizes look similar)",
                             "value": "Identical"
                         },
                         {
-                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely).",
+                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
                             "value": "Diverging a bit"
                         },
                         {
-                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely).",
+                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)",
                             "value": "Diverging a lot"
                         }
                     ]
