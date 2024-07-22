@@ -59,13 +59,14 @@
                     "location": "sidebar",
                     "type": "likert",
                     "numItems": 5,
-                    "leftLabel": "Not",
-                    "rightLabel": "Very"
+                    "leftLabel": "Not confident",
+                    "rightLabel": "Very confident"
 
                 },
                 {
                     "id": "voq2",
-                    "prompt": "On a scale of 1 to 5, how well did you understand the information presented? (1 = Not at all understood, 5 = Completely understood)",
+                    "prompt": "How well did you understand the information presented?",
+                    "secondaryText": "1 = Not at all understood, 5 = Completely understood",
                     "required": true,
                     "location": "sidebar",
                     "type": "likert",
@@ -75,7 +76,8 @@
                 },
                 {
                     "id": "voq3",
-                    "prompt": "On a scale of 1 to 5, how effective was the plot at conveying information? (1 = Not at all effective, 5 = Extremely effective)",
+                    "prompt": "How effective was the plot at conveying information?",
+                    "secondaryText": "1 = Not at all effective, 5 = Extremely effective",
                     "required": true,
                     "location": "sidebar",
                     "type": "likert",
@@ -123,13 +125,14 @@
                     "location": "sidebar",
                     "type": "likert",
                     "numItems": 5,
-                    "leftLabel": "Not",
-                    "rightLabel": "Very"
+                    "leftLabel": "Not confident",
+                    "rightLabel": "Very confident"
 
                 },
                 {
                     "id": "voq2",
-                    "prompt": "On a scale of 1 to 5, how well did you understand the information presented? (1 = Not at all understood, 5 = Completely understood)",
+                    "prompt": "How well did you understand the information presented?",
+                    "secondaryText": "1 = Not at all understood, 5 = Completely understood",
                     "required": true,
                     "location": "sidebar",
                     "type": "likert",
@@ -139,7 +142,8 @@
                 },
                 {
                     "id": "voq3",
-                    "prompt": "On a scale of 1 to 5, how effective was the description of the data at conveying information? (1 = Not at all effective, 5 = Extremely effective)",
+                    "prompt": "How effective was the description of the data at conveying information?",
+                    "secondaryText": "1 = Not at all effective, 5 = Extremely effective",
                     "required": true,
                     "location": "sidebar",
                     "type": "likert",
@@ -185,13 +189,14 @@
                     "location": "sidebar",
                     "type": "likert",
                     "numItems": 5,
-                    "leftLabel": "Not",
-                    "rightLabel": "Very"
+                    "leftLabel": "Not confident",
+                    "rightLabel": "Very confident"
 
                 },
                 {
                     "id": "voq2",
-                    "prompt": "On a scale of 1 to 5, how well did you understand the information presented? (1 = Not at all understood, 5 = Completely understood)",
+                    "prompt": "How well did you understand the information presented?",
+                    "secondaryText": "1 = Not at all understood, 5 = Completely understood",
                     "required": true,
                     "location": "sidebar",
                     "type": "likert",
@@ -201,7 +206,8 @@
                 },
                 {
                     "id": "voq3",
-                    "prompt": "On a scale of 1 to 5, how effective was the content at conveying information? (1 = Not at all effective, 5 = Extremely effective)",                 
+                    "prompt": "How effective was the content at conveying information?", 
+                    "secondaryText": "1 = Not at all effective, 5 = Extremely effective",                
                     "required": true,
                     "location": "sidebar",
                     "type": "likert",
@@ -2399,17 +2405,44 @@
                         }
                     ]
                 },
-                {
+                {   
                     "id": "q4",
-                    "prompt": "Did you find the text description too short or too long? (e.g., too short, too long)",
+                    "prompt": "Did you find UpSet plots easy to read?",
+                    "secondaryText": "1 = Very difficult, 5 = Very easy",
                     "required": true,
                     "location": "aboveStimulus",
-                    "type": "longText",
-                    "placeholder": "Enter your comments here"
+                    "type": "likert",
+                    "numItems": 5,
+                    "leftLabel": "Very difficult",
+                    "rightLabel": "Very easy"
+
                 },
                 {
                     "id": "q5",
-                    "prompt": "Did you miss anything in the text description? If yes, what should be included?",
+                    "prompt": "Did you find the text descriptions easy to read?",
+                    "secondaryText": "1 = Very difficult, 5 = Very easy",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "likert",
+                    "numItems": 5,
+                    "leftLabel": "Very difficult",
+                    "rightLabel": "Very easy"
+                },
+                {
+                    "id": "q6",
+                    "prompt": "Did you find the text description too short or too long?",
+                    "secondaryText": "1 = Much too short, 5 = Much too long",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "likert",
+                    "numItems": 5,
+                    "leftLabel": "Much too short",
+                    "rightLabel": "Much too long"
+                },
+                
+                {
+                    "id": "q7",
+                    "prompt": "Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",
                     "required": true,
                     "location": "aboveStimulus",
                     "type": "longText",
@@ -2417,8 +2450,9 @@
 
                 },
                 {
-                    "id": "q6",
+                    "id": "q8",
                     "prompt": "How experienced are you with Data Visualization?",
+                    "secondaryText": "1 = Not at all experienced, 5 = Very experienced",
                     "required": true,
                     "location": "aboveStimulus",
                     "type": "likert",
@@ -2427,9 +2461,9 @@
                     "rightLabel": "Very experienced"
                 },
                 {
-                    "id": "q7",
-                    "prompt": "Do you have comments about how the information was presented?",
-                    "required": true,
+                    "id": "q9",
+                    "prompt": "Do you have any other comments?",
+                    "required": false,
                     "location": "aboveStimulus",
                     "type": "longText",
                     "placeholder": "Enter your comments here"
