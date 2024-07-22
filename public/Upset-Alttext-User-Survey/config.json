@@ -381,11 +381,11 @@
                 },
                 {
                     "id": "2",
-                    "answer": "Drama"
+                    "answer": "Empty Intersection (no sets)"
                 },
                 {
                     "id": "3",
-                    "answer": "No set"
+                    "answer": "It is the empty intersection (no sets)"
                 }
             ]
 
@@ -501,7 +501,7 @@
                 },
                 {
                     "id": "3",
-                    "answer": "Independent set"
+                    "answer": "It is only of a single set."
                 }
             ]
 
