@@ -58,7 +58,7 @@ You will be asked about the make-up of these intersection. The categories are
 * an intersection is made up of **no set**; as shown in the third row with size 854 here (movies that don't have any of the genres shown).
 * an intersection can only contains a **single set**, like the largest one (Drama, with 1198 movies)
 * an can contains **2-3 sets**, like the "Drama-Comedy" intersection with size 212.
-* an intersection can be made up of more than 3 sets, or **many sets
+* an intersection can be made up of more than 3 sets, or **many sets**
 * Finally, an intersection can contain all sets, which we call an "all-set intersection" (not shown in this example). 
 
 <br>

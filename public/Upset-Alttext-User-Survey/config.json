@@ -20,7 +20,7 @@
         "autoDownloadStudy": false,
         "sidebar": true,
         "enumerateQuestions": true,
-        "sidebarWidth": 400
+        "sidebarWidth": 440
     },
     "baseComponents": {
         "VO-image1": {
@@ -59,8 +59,8 @@
                     "location": "sidebar",
                     "type": "likert",
                     "numItems": 5,
-                    "leftLabel": "Not confident",
-                    "rightLabel": "Very confident"
+                    "leftLabel": "Not",
+                    "rightLabel": "Very"
 
                 },
                 {
@@ -71,8 +71,8 @@
                     "location": "sidebar",
                     "type": "likert",
                     "numItems": 5,
-                    "leftLabel": "Not understood",
-                    "rightLabel": "Completely understood"
+                    "leftLabel": "Not",
+                    "rightLabel": "Completely"
                 },
                 {
                     "id": "voq3",
@@ -82,8 +82,8 @@
                     "location": "sidebar",
                     "type": "likert",
                     "numItems": 5,
-                    "leftLabel": "Not effective",
-                    "rightLabel": "Extremely effective"
+                    "leftLabel": "Not",
+                    "rightLabel": "Extremely"
                 }
             ]
         
@@ -125,8 +125,8 @@
                     "location": "sidebar",
                     "type": "likert",
                     "numItems": 5,
-                    "leftLabel": "Not confident",
-                    "rightLabel": "Very confident"
+                    "leftLabel": "Not",
+                    "rightLabel": "Very"
 
                 },
                 {
@@ -137,8 +137,8 @@
                     "location": "sidebar",
                     "type": "likert",
                     "numItems": 5,
-                    "leftLabel": "Not understood",
-                    "rightLabel": "Completely understood"
+                    "leftLabel": "Not",
+                    "rightLabel": "Completely"
                 },
                 {
                     "id": "voq3",
@@ -148,8 +148,8 @@
                     "location": "sidebar",
                     "type": "likert",
                     "numItems": 5,
-                    "leftLabel": "Not effective",
-                    "rightLabel": "Extremely effective"
+                    "leftLabel": "Not",
+                    "rightLabel": "Extremely"
                 }
             ]
         },
@@ -189,8 +189,8 @@
                     "location": "sidebar",
                     "type": "likert",
                     "numItems": 5,
-                    "leftLabel": "Not confident",
-                    "rightLabel": "Very confident"
+                    "leftLabel": "Not",
+                    "rightLabel": "Very"
 
                 },
                 {
@@ -201,8 +201,8 @@
                     "location": "sidebar",
                     "type": "likert",
                     "numItems": 5,
-                    "leftLabel": "Not understood",
-                    "rightLabel": "Completely understood"
+                    "leftLabel": "Not",
+                    "rightLabel": "Completely"
                 },
                 {
                     "id": "voq3",
@@ -212,8 +212,8 @@
                     "location": "sidebar",
                     "type": "likert",
                     "numItems": 5,
-                    "leftLabel": "Not effective",
-                    "rightLabel": "Extremely effective"
+                    "leftLabel": "Not",
+                    "rightLabel": "Extremely"
                 }
             ]
         },
@@ -657,12 +657,12 @@
             "path": "Upset-Alttext-User-Survey/assets/studyBegins.md",
             "response": []
         },
-        "Covid-Vis-Q1": {
+        "Covid-Vis-Q3": {
             "baseComponent": "VO-image1",
             "path": "Upset-Alttext-User-Survey/assets/covidVis.md"
             
         },
-        "Covid-Vis-Q2": {
+        "Covid-Vis-Q1": {
             "baseComponent": "VO-image2",
             "response": [
                 {
@@ -743,6 +743,10 @@
                         {
                             "label": "Shortness of Breath",
                             "value": "Shortness of Breath"
+                        },
+                        {
+                            "label": "Empty Intersection (no sets)",
+                            "value": "Empty Intersection"
                         }
                     ]
                 },
@@ -843,15 +847,15 @@
             ],
             "path": "Upset-Alttext-User-Survey/assets/covidVis.md"
         },
-        "Covid-Vis-Q3": {
+        "Covid-Vis-Q2": {
             "baseComponent": "VO-image3",
             "path": "Upset-Alttext-User-Survey/assets/covidVis.md"
         },
-        "Covid-Text-Q1": {
+        "Covid-Text-Q3": {
             "baseComponent": "TO-text1",
             "path": "Upset-Alttext-User-Survey/assets/covidText.md"   
         },
-        "Covid-Text-Q2": {
+        "Covid-Text-Q1": {
             "baseComponent": "TO-text2",
             "path": "Upset-Alttext-User-Survey/assets/covidText.md",
             "response": [
@@ -934,6 +938,10 @@
                         {
                             "label": "Shortness of Breath",
                             "value": "Shortness of Breath"
+                        },
+                        {
+                            "label": "Empty Intersection (no sets)",
+                            "value": "Empty Intersection"
                         }
                     ]
                 },
@@ -1033,16 +1041,16 @@
                 }
             ]
         },
-        "Covid-Text-Q3": {
+        "Covid-Text-Q2": {
             "baseComponent": "TO-text3",
             "path": "Upset-Alttext-User-Survey/assets/covidText.md"
             
         },
-        "Covid-Both-Q1": {
+        "Covid-Both-Q3": {
             "baseComponent": "TandV1",
             "path": "Upset-Alttext-User-Survey/assets/covidTextandVis.md"
         },
-        "Covid-Both-Q2": {
+        "Covid-Both-Q1": {
             "baseComponent": "TandV2",
             "path": "Upset-Alttext-User-Survey/assets/covidTextandVis.md",
             "response": [
@@ -1124,6 +1132,10 @@
                         {
                             "label": "Shortness of Breath",
                             "value": "Shortness of Breath"
+                        },
+                        {
+                            "label": "Empty Intersection (no sets)",
+                            "value": "Empty Intersection"
                         }
                     ]
                 },
@@ -1223,16 +1235,16 @@
                 }
             ]         
         },
-        "Covid-Both-Q3": {
+        "Covid-Both-Q2": {
             "baseComponent": "TandV3",
             "path": "Upset-Alttext-User-Survey/assets/covidTextandVis.md"
             
         },
-        "Tennis-Vis-Q1": {
+        "Tennis-Vis-Q3": {
             "baseComponent": "VO-image1",
             "path": "Upset-Alttext-User-Survey/assets/tennisVis.md"
         },
-        "Tennis-Vis-Q2": {
+        "Tennis-Vis-Q1": {
             "baseComponent": "VO-image2",
             "path": "Upset-Alttext-User-Survey/assets/tennisVis.md",
             "response": [
@@ -1296,6 +1308,10 @@
                         {
                             "label": "Wimbledon",
                             "value": "Wimbledon"
+                        },
+                        {
+                            "label": "Empty Intersection (no sets)",
+                            "value": "Empty Intersection"
                         }
                     ]
                 },
@@ -1395,15 +1411,15 @@
                 }
             ]
         },
-        "Tennis-Vis-Q3": {
+        "Tennis-Vis-Q2": {
             "baseComponent": "VO-image3",
             "path": "Upset-Alttext-User-Survey/assets/tennisVis.md"
         },
-        "Tennis-Text-Q1": {
+        "Tennis-Text-Q3": {
             "baseComponent": "TO-text1",
             "path": "Upset-Alttext-User-Survey/assets/tennisText.md"
         },
-        "Tennis-Text-Q2": {
+        "Tennis-Text-Q1": {
             "baseComponent": "TO-text2",
             "path": "Upset-Alttext-User-Survey/assets/tennisText.md",
             "response": [
@@ -1468,6 +1484,10 @@
                         {
                             "label": "Wimbledon",
                             "value": "Wimbledon"
+                        },
+                        {
+                            "label": "Empty Intersection (no sets)",
+                            "value": "Empty Intersection"
                         }
                     ]
                 },
@@ -1568,15 +1588,15 @@
             ]
             
         },
-        "Tennis-Text-Q3": {
+        "Tennis-Text-Q2": {
             "baseComponent": "TO-text3",
             "path": "Upset-Alttext-User-Survey/assets/tennisText.md"
         },
-        "Tennis-Both-Q1": {
+        "Tennis-Both-Q3": {
             "baseComponent": "TandV1",
             "path": "Upset-Alttext-User-Survey/assets/tennisTextandVis.md"
         },
-        "Tennis-Both-Q2": {
+        "Tennis-Both-Q1": {
             "baseComponent": "TandV2",
             "path": "Upset-Alttext-User-Survey/assets/tennisTextandVis.md",
             "response": [
@@ -1640,6 +1660,10 @@
                         {
                             "label": "Wimbledon",
                             "value": "Wimbledon"
+                        },
+                        {
+                            "label": "Empty Intersection (no sets)",
+                            "value": "Empty Intersection"
                         }
                     ]
                 },
@@ -1739,15 +1763,15 @@
                 }
             ] 
         },
-        "Tennis-Both-Q3": {
+        "Tennis-Both-Q2": {
             "baseComponent": "TandV3",
             "path": "Upset-Alttext-User-Survey/assets/tennisTextandVis.md"
         },
-        "GoT-Vis-Q1": {
+        "GoT-Vis-Q3": {
             "baseComponent": "VO-image1",
             "path": "Upset-Alttext-User-Survey/assets/GoTVis.md"
         },
-        "GoT-Vis-Q2": {
+        "GoT-Vis-Q1": {
             "baseComponent": "VO-image2",
             "path": "Upset-Alttext-User-Survey/assets/GoTVis.md",
             "response": [
@@ -1837,6 +1861,10 @@
                         {
                             "label": "royal",
                             "value": "royal"
+                        },
+                        {
+                            "label": "Empty Intersection (no sets)",
+                            "value": "Empty Intersection"
                         }
                     ]
                 },
@@ -1936,15 +1964,15 @@
                 }
             ]
         },
-        "GoT-Vis-Q3": {
+        "GoT-Vis-Q2": {
             "baseComponent": "VO-image3",
             "path": "Upset-Alttext-User-Survey/assets/GoTVis.md"
         },
-        "GoT-Text-Q1": {
+        "GoT-Text-Q3": {
             "baseComponent": "TO-text1",
             "path": "Upset-Alttext-User-Survey/assets/GoText.md"
         },
-        "GoT-Text-Q2": {
+        "GoT-Text-Q1": {
             "baseComponent": "TO-text2",
             "path": "Upset-Alttext-User-Survey/assets/GoText.md",
             "response": [
@@ -2035,6 +2063,10 @@
                         {
                             "label": "royal",
                             "value": "royal"
+                        },
+                        {
+                            "label": "Empty Intersection (no sets)",
+                            "value": "Empty Intersection"
                         }
                     ]
                 },
@@ -2135,15 +2167,15 @@
             ]
 
         },
-        "GoT-Text-Q3": {
+        "GoT-Text-Q2": {
             "baseComponent": "TO-text3",
             "path": "Upset-Alttext-User-Survey/assets/GoText.md"
         },
-        "GoT-Both-Q1": {
+        "GoT-Both-Q3": {
             "baseComponent": "TandV1",
             "path": "Upset-Alttext-User-Survey/assets/GoTextandVis.md"
         },
-        "GoT-Both-Q2": {
+        "GoT-Both-Q1": {
             "baseComponent": "TandV2",
             "path": "Upset-Alttext-User-Survey/assets/GoTextandVis.md",
             "response": [
@@ -2233,6 +2265,10 @@
                         {
                             "label": "royal",
                             "value": "royal"
+                        },
+                        {
+                            "label": "Empty Intersection (no sets)",
+                            "value": "Empty Intersection"
                         }
                     ]
                 },
@@ -2332,9 +2368,693 @@
                 }
             ]    
         },
-        "GoT-Both-Q3": {
+        "GoT-Both-Q2": {
             "baseComponent": "TandV3",
             "path": "Upset-Alttext-User-Survey/assets/GoTextandVis.md"
+        },
+        "Organizations-Vis-Q3": {
+            "baseComponent": "VO-image1",
+            "path": "Upset-Alttext-User-Survey/assets/orgVis.md"
+        },
+        "Organizations-Vis-Q1": {
+            "baseComponent": "VO-image2",
+            "path": "Upset-Alttext-User-Survey/assets/orgVis.md",
+            "response": [
+                {
+                    "id": "voq1",
+                    "prompt": "How many sets are shown in the upset plot?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "numerical",
+                    "placeholder": "Please enter your answer here",
+                    "min": 0,
+                    "max": 100
+
+                },
+                {
+                    "id": "voq2",
+                    "prompt": "What is the largest set?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "dropdown",
+                    "placeholder": "Please select an answer",
+                    "options": [
+                        {
+                            "label": "CICA",
+                            "value": "CICA"
+                        },
+                        {
+                            "label": "G-5",
+                            "value": "G-5"
+                        },
+                        {
+                            "label": "Interpol",
+                            "value": "Interpol"
+                        },
+                        {
+                            "label": "NATO",
+                            "value": "NATO"
+                        },
+                        {
+
+                            "label": "SAARC",
+                            "value": "SAARC"
+                        },
+                        {
+                            "label": "SICA",
+                            "value": "SICA"
+                        },
+                        {
+                            "label": "UN",
+                            "value": "UN"
+                        },
+                        {   
+                            "label": "UNESCO",
+                            "value": "UNESCO"
+
+                        },
+                        {
+                            "label": "UPU",
+                            "value": "UPU"
+                        },
+                        {
+                            "label": "WHO",
+                            "value": "WHO"
+                        }
+                    ]
+                },
+                {
+                    "id": "voq3",
+                    "prompt": "What is the largest intersection?",
+                    "secondaryText": "Select all Sets in the Intersection",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "checkbox",
+                    "options": [
+                            {
+                                "label": "CICA",
+                                "value": "CICA"
+                            },
+                            {
+                                "label": "G-5",
+                                "value": "G-5"
+                            },
+                            {
+                                "label": "Interpol",
+                                "value": "Interpol"
+                            },
+                            {
+                                "label": "NATO",
+                                "value": "NATO"
+                            },
+                            {
+    
+                                "label": "SAARC",
+                                "value": "SAARC"
+                            },
+                            {
+                                "label": "SICA",
+                                "value": "SICA"
+                            },
+                            {
+                                "label": "UN",
+                                "value": "UN"
+                            },
+                            {   
+                                "label": "UNESCO",
+                                "value": "UNESCO"
+    
+                            },
+                            {
+                                "label": "UPU",
+                                "value": "UPU"
+                            },
+                            {
+                                "label": "WHO",
+                                "value": "WHO"
+                            },
+                            {
+                                "label": "Empty Intersection (no sets)",
+                                "value": "Empty Intersection"
+                            }
+                        
+                    ]
+                },
+                {
+                    "id": "voq4",
+                    "prompt": "How large is the largest intersection?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "numerical",
+                    "placeholder": "Please enter your answer here",
+                    "min": 0,
+                    "max": 1000000000
+                },
+                {
+                    "id": "voq5",
+                    "prompt": "How many sets make up the largest intersection?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "dropdown",
+                    "placeholder": "Please choose your answer",
+                    "options": [
+                        {
+                            "label": "It is only of a single set",
+                            "value": "Independent set"
+                        },
+                        {
+                            "label": "It is the intersection of 2-3 sets",
+                            "value": "Low set"
+                        },
+                        {
+                            "label": "It is the intersection of many sets",
+                            "value": "Medium / High order set"
+                        },
+                        {
+                            "label": "It is the empty intersection (no sets)",
+                            "value": "Empty set"
+                        }
+                        
+                    ]
+                },
+                {
+                    "id": "voq6",
+                    "prompt": "How similar are the set sizes?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "dropdown",
+                    "placeholder": "Please choose your answer",
+                    "options": [
+                        {
+                            "label": "Roughly equal (all the set sizes look similar)",
+                            "value": "Identical"
+                        },
+                        {
+                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
+                            "value": "Diverging a bit"
+                        },
+                        {
+                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)",
+                            "value": "Diverging a lot"
+                        }
+                    ]
+                },
+                {
+                    "id": "voq7",
+                    "prompt": "Is the largest set present in the largest intersection?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "label": "Yes",
+                            "value": "1"
+                        },
+                        {
+                            "label": "No",
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "voq8",
+                    "prompt": "Is the all-set intersection (intersection having all the sets) present? ",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "label": "Yes",
+                            "value": "1"
+                        },
+                        {
+                            "label": "No",
+                            "value": "2"
+                        }
+                        
+                    ]
+                }
+            ]
+        },
+        "Organizations-Vis-Q2": {
+            "baseComponent": "VO-image3",
+            "path": "Upset-Alttext-User-Survey/assets/orgVis.md"
+        },
+        "Organizations-Text-Q3": {
+            "baseComponent": "TO-text1",
+            "path": "Upset-Alttext-User-Survey/assets/orgText.md"
+        },
+        "Organizations-Text-Q1": {
+            "baseComponent": "TO-text2",
+            "path": "Upset-Alttext-User-Survey/assets/orgText.md",
+            "response": [
+                {
+                    "id": "voq1",
+                    "prompt": "How many sets are shown in the description?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "numerical",
+                    "placeholder": "Please enter your answer here",
+                    "min": 0,
+                    "max": 100
+
+                },
+                {
+                    "id": "voq2",
+                    "prompt": "What is the largest set?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "dropdown",
+                    "placeholder": "Please select an answer",
+                    "options": [
+                        {
+                            "label": "CICA",
+                            "value": "CICA"
+                        },
+                        {
+                            "label": "G-5",
+                            "value": "G-5"
+                        },
+                        {
+                            "label": "Interpol",
+                            "value": "Interpol"
+                        },
+                        {
+                            "label": "NATO",
+                            "value": "NATO"
+                        },
+                        {
+
+                            "label": "SAARC",
+                            "value": "SAARC"
+                        },
+                        {
+                            "label": "SICA",
+                            "value": "SICA"
+                        },
+                        {
+                            "label": "UN",
+                            "value": "UN"
+                        },
+                        {   
+                            "label": "UNESCO",
+                            "value": "UNESCO"
+
+                        },
+                        {
+                            "label": "UPU",
+                            "value": "UPU"
+                        },
+                        {
+                            "label": "WHO",
+                            "value": "WHO"
+                        }
+                    ]
+
+                },
+                {
+                    "id": "voq3",
+                    "prompt": "What is the largest intersection?",
+                    "secondaryText": "Select all Sets in the Intersection",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "checkbox",
+                    "options": [
+                        {
+                            "label": "CICA",
+                            "value": "CICA"
+                        },
+                        {
+                            "label": "G-5",
+                            "value": "G-5"
+                        },
+                        {
+                            "label": "Interpol",
+                            "value": "Interpol"
+                        },
+                        {
+                            "label": "NATO",
+                            "value": "NATO"
+                        },
+                        {
+
+                            "label": "SAARC",
+                            "value": "SAARC"
+                        },
+                        {
+                            "label": "SICA",
+                            "value": "SICA"
+                        },
+                        {
+                            "label": "UN",
+                            "value": "UN"
+                        },
+                        {   
+                            "label": "UNESCO",
+                            "value": "UNESCO"
+
+                        },
+                        {
+                            "label": "UPU",
+                            "value": "UPU"
+                        },
+                        {
+                            "label": "WHO",
+                            "value": "WHO"
+                        },
+                        {
+                            "label": "Empty Intersection (no sets)",
+                            "value": "Empty Intersection"
+                        }
+                    ]
+                },
+                {
+                    "id": "voq4",
+                    "prompt": "How large is the largest intersection?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "numerical",
+                    "placeholder": "Please enter your answer here",
+                    "min": 0,
+                    "max": 1000000000
+                },
+                {
+                    "id": "voq5",
+                    "prompt": "How many sets make up the largest intersection?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "dropdown",
+                    "placeholder": "Please choose your answer",
+                    "options": [
+                        {
+                            "label": "It is only of a single set",
+                            "value": "Independent set"
+                        },
+                        {
+                            "label": "It is the intersection of 2-3 sets",
+                            "value": "Low set"
+                        },
+                        {
+                            "label": "It is the intersection of many sets",
+                            "value": "Medium / High order set"
+                        },
+                        {
+                            "label": "It is the empty intersection (no sets)",
+                            "value": "Empty set"
+                        }
+                        
+                    ]
+                },
+                {
+                    "id": "voq6",
+                    "prompt": "How similar are the set sizes?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "dropdown",
+                    "placeholder": "Please choose your answer",
+                    "options": [
+                        {
+                            "label": "Roughly equal (all the set sizes look similar)",
+                            "value": "Identical"
+                        },
+                        {
+                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
+                            "value": "Diverging a bit"
+                        },
+                        {
+                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)",
+                            "value": "Diverging a lot"
+                        }
+                    ]
+                },
+                {
+                    "id": "voq7",
+                    "prompt": "Is the largest set present in the largest intersection?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "label": "Yes",
+                            "value": "1"
+                        },
+                        {
+                            "label": "No",
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "voq8",
+                    "prompt": "Is the all-set intersection (intersection having all the sets) present? ",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "label": "Yes",
+                            "value": "1"
+                        },
+                        {
+                            "label": "No",
+                            "value": "2"
+                        }
+                        
+                    ]
+                }
+            ]
+
+        },
+        "Organizations-Text-Q2": {
+            "baseComponent": "TO-text3",
+            "path": "Upset-Alttext-User-Survey/assets/orgText.md"
+        },
+        "Organizations-Both-Q3": {
+            "baseComponent": "TandV1",
+            "path": "Upset-Alttext-User-Survey/assets/orgTextandVis.md"
+        },
+        "Organizations-Both-Q1": {
+            "baseComponent": "TandV2",
+            "path": "Upset-Alttext-User-Survey/assets/orgTextandVis.md",
+            "response": [
+                {
+                    "id": "voq1",
+                    "prompt": "How many sets are there?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "numerical",
+                    "placeholder": "Please enter your answer here",
+                    "min": 0,
+                    "max": 100
+
+                },
+                {
+                    "id": "voq2",
+                    "prompt": "What is the largest set?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "dropdown",
+                    "placeholder": "Please select an answer",
+                    "options": [
+                        {
+                            "label": "CICA",
+                            "value": "CICA"
+                        },
+                        {
+                            "label": "G-5",
+                            "value": "G-5"
+                        },
+                        {
+                            "label": "Interpol",
+                            "value": "Interpol"
+                        },
+                        {
+                            "label": "NATO",
+                            "value": "NATO"
+                        },
+                        {
+
+                            "label": "SAARC",
+                            "value": "SAARC"
+                        },
+                        {
+                            "label": "SICA",
+                            "value": "SICA"
+                        },
+                        {
+                            "label": "UN",
+                            "value": "UN"
+                        },
+                        {   
+                            "label": "UNESCO",
+                            "value": "UNESCO"
+
+                        },
+                        {
+                            "label": "UPU",
+                            "value": "UPU"
+                        },
+                        {
+                            "label": "WHO",
+                            "value": "WHO"
+                        }
+                    ]
+                },
+                {
+                    "id": "voq3",
+                    "prompt": "What is the largest intersection?",
+                    "secondaryText": "Select all Sets in the Intersection",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "checkbox",
+                    "options": [
+                        {
+                            "label": "CICA",
+                            "value": "CICA"
+                        },
+                        {
+                            "label": "G-5",
+                            "value": "G-5"
+                        },
+                        {
+                            "label": "Interpol",
+                            "value": "Interpol"
+                        },
+                        {
+                            "label": "NATO",
+                            "value": "NATO"
+                        },
+                        {
+
+                            "label": "SAARC",
+                            "value": "SAARC"
+                        },
+                        {
+                            "label": "SICA",
+                            "value": "SICA"
+                        },
+                        {
+                            "label": "UN",
+                            "value": "UN"
+                        },
+                        {   
+                            "label": "UNESCO",
+                            "value": "UNESCO"
+
+                        },
+                        {
+                            "label": "UPU",
+                            "value": "UPU"
+                        },
+                        {
+                            "label": "WHO",
+                            "value": "WHO"
+                        },
+                        {
+                            "label": "Empty Intersection (no sets)",
+                            "value": "Empty Intersection"
+                        }
+                    ]
+                },
+                {
+                    "id": "voq4",
+                    "prompt": "How large is the largest intersection?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "numerical",
+                    "placeholder": "Please enter your answer here",
+                    "min": 0,
+                    "max": 1000000000
+                },
+                {
+                    "id": "voq5",
+                    "prompt": "How many sets make up the largest intersection?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "dropdown",
+                    "placeholder": "Please choose your answer",
+                    "options": [
+                        {
+                            "label": "It is only of a single set",
+                            "value": "Independent set"
+                        },
+                        {
+                            "label": "It is the intersection of 2-3 sets",
+                            "value": "Low set"
+                        },
+                        {
+                            "label": "It is the intersection of many sets",
+                            "value": "Medium / High order set"
+                        },
+                        {
+                            "label": "It is the empty intersection (no sets)",
+                            "value": "Empty set"
+                        }
+                        
+                    ]
+                },
+                {
+                    "id": "voq6",
+                    "prompt": "How similar are the set sizes?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "dropdown",
+                    "placeholder": "Please choose your answer",
+                    "options": [
+                        {
+                            "label": "Roughly equal (all the set sizes look similar)",
+                            "value": "Identical"
+                        },
+                        {
+                            "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
+                            "value": "Diverging a bit"
+                        },
+                        {
+                            "label": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)",
+                            "value": "Diverging a lot"
+                        }
+                    ]
+                },
+                {
+                    "id": "voq7",
+                    "prompt": "Is the largest set present in the largest intersection?",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "label": "Yes",
+                            "value": "1"
+                        },
+                        {
+                            "label": "No",
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "voq8",
+                    "prompt": "Is the all-set intersection (intersection having all the sets) present? ",
+                    "required": true,
+                    "location": "sidebar",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "label": "Yes",
+                            "value": "1"
+                        },
+                        {
+                            "label": "No",
+                            "value": "2"
+                        }
+                        
+                    ]
+                }
+            ]    
+        },
+        "Organizations-Both-Q2": {
+            "baseComponent": "TandV3",
+            "path": "Upset-Alttext-User-Survey/assets/orgTextandVis.md"
         },
         "Post Study Survey": {
             "type": "questionnaire",
@@ -2513,9 +3233,9 @@
                             {
                                 "order": "fixed",
                                 "components": [
-                                    "GoT-Text-Q1",
-                                    "GoT-Text-Q2",
-                                    "GoT-Text-Q3"
+                                    "Organizations-Text-Q1",
+                                    "Organizations-Text-Q2",
+                                    "Organizations-Text-Q3"
                                 ]
                             },
                             {
@@ -2534,26 +3254,26 @@
                             {
                                 "order": "fixed",
                                 "components": [
-                                    "GoT-Vis-Q1",
-                                    "GoT-Vis-Q2",
-                                    "GoT-Vis-Q3"
+                                    "Organizations-Vis-Q1",
+                                    "Organizations-Vis-Q2",
+                                    "Organizations-Vis-Q3"
                                     ]
         
                             },
                             {
                                 "order": "fixed",
                                 "components": [
-                                    "Covid-Text-Q1",
-                                    "Covid-Text-Q2",
-                                    "Covid-Text-Q3"
+                                    "Tennis-Text-Q1",
+                                    "Tennis-Text-Q2",
+                                    "Tennis-Text-Q3"
                                 ]
                             },
                             {
                                 "order": "fixed",
                                 "components": [
-                                    "Tennis-Both-Q1",
-                                    "Tennis-Both-Q2",
-                                    "Tennis-Both-Q3"
+                                    "Covid-Both-Q1",
+                                    "Covid-Both-Q2",
+                                    "Covid-Both-Q3"
                                 ]
                             }
                         ]
@@ -2581,9 +3301,9 @@
                             {
                                 "order": "fixed",
                                 "components": [
-                                    "GoT-Both-Q1",
-                                    "GoT-Both-Q2",
-                                    "GoT-Both-Q3"
+                                    "Organizations-Both-Q1",
+                                    "Organizations-Both-Q2",
+                                    "Organizations-Both-Q3"
                                 ]
                             }
                         ]
@@ -2611,9 +3331,39 @@
                             {
                                 "order": "fixed",
                                 "components": [
-                                    "GoT-Both-Q1",
-                                    "GoT-Both-Q2",
-                                    "GoT-Both-Q3"
+                                    "Organizations-Both-Q1",
+                                    "Organizations-Both-Q2",
+                                    "Organizations-Both-Q3"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "order":"latinSquare",
+                        "components": [
+                            {
+                                "order": "fixed",
+                                "components": [
+                                    "Organizations-Vis-Q1",
+                                    "Organizations-Vis-Q2",
+                                    "Organizations-Vis-Q3"
+                                    ]
+        
+                            },
+                            {
+                                "order": "fixed",
+                                "components": [
+                                    "Covid-Text-Q1",
+                                    "Covid-Text-Q2",
+                                    "Covid-Text-Q3"
+                                ]
+                            },
+                            {
+                                "order": "fixed",
+                                "components": [
+                                    "Tennis-Both-Q1",
+                                    "Tennis-Both-Q2",
+                                    "Tennis-Both-Q3"
                                 ]
                             }
                         ]
@@ -2633,39 +3383,9 @@
                             {
                                 "order": "fixed",
                                 "components": [
-                                    "GoT-Text-Q1",
-                                    "GoT-Text-Q2",
-                                    "GoT-Text-Q3"
-                                ]
-                            },
-                            {
-                                "order": "fixed",
-                                "components": [
-                                    "Covid-Both-Q1",
-                                    "Covid-Both-Q2",
-                                    "Covid-Both-Q3"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "order":"latinSquare",
-                        "components": [
-                            {
-                                "order": "fixed",
-                                "components": [
-                                    "GoT-Vis-Q1",
-                                    "GoT-Vis-Q2",
-                                    "GoT-Vis-Q3"
-                                    ]
-        
-                            },
-                            {
-                                "order": "fixed",
-                                "components": [
-                                    "Tennis-Text-Q1",
-                                    "Tennis-Text-Q2",
-                                    "Tennis-Text-Q3"
+                                    "Organizations-Text-Q1",
+                                    "Organizations-Text-Q2",
+                                    "Organizations-Text-Q3"
                                 ]
                             },
                             {
