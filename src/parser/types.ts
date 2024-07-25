@@ -421,6 +421,10 @@ export interface CheckboxResponse extends BaseResponse {
   type: 'checkbox';
   /** The options that are displayed as checkboxes, provided as an array of objects, with label and value fields. */
   options: StringOption[];
+  /** The minimum number of selections that are required. */
+  minSelections?: number;
+  /** The maximum number of selections that are required. */
+  maxSelections?: number;
 }
 
 /**
@@ -562,8 +566,8 @@ export default function CoolComponent({ parameters, setAnswer }: StimulusParams<
 ```
  *
  * For in depth examples, see the following studies, and their associated codebases.
- * https://revisit.dev/study/demo-click-accuracy-test (https://github.com/revisit-studies/study/tree/v1.0.0/src/public/demo-click-accuracy-test/assets)
- * https://revisit.dev/study/demo-brush-interactions (https://github.com/revisit-studies/study/tree/v1.0.0/src/public/demo-brush-interactions/assets)
+ * https://revisit.dev/study/demo-click-accuracy-test (https://github.com/revisit-studies/study/tree/v1.0.1/src/public/demo-click-accuracy-test/assets)
+ * https://revisit.dev/study/demo-brush-interactions (https://github.com/revisit-studies/study/tree/v1.0.1/src/public/demo-brush-interactions/assets)
  */
 export interface ReactComponent extends BaseIndividualComponent {
   type: 'react-component';
@@ -830,6 +834,7 @@ export type InterruptionBlock = DeterministicInterruption | RandomInterruption;
       "check": "response",
       "responseId": "attentionCheckResponse",
       "value": "the right answer",
+      "comparison": "equal",
       "to": "end"
     }
   ]
@@ -848,6 +853,8 @@ export interface IndividualComponentSingleResponseCondition {
   responseId: string;
   /** The value to check. */
   value: string | number;
+  /** The comparison to use. */
+  comparison: 'equal' | 'notEqual';
   /** The id of the component or block to skip to */
   to: string;
 }
@@ -1154,7 +1161,7 @@ export type BaseComponents = Record<string, Partial<IndividualComponent>>;
 
 ```js
 {
-  "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v1.0.0/src/parser/StudyConfigSchema.json",
+  "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v1.0.1/src/parser/StudyConfigSchema.json",
   "studyMetadata": {
     ...
   },
