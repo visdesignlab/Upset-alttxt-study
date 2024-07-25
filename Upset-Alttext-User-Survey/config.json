@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v1.0.0-beta13/src/parser/StudyConfigSchema.json",
+    "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v1.0.1/src/parser/StudyConfigSchema.json",
     "studyMetadata": {
         "title": "Upset Alttext User Survey",
         "version": "pilot",
@@ -3202,6 +3202,7 @@
                 "check": "response",
                 "responseId": "consent",
                 "value": "yes",
+                "comparison": "notEqual",
                 "to": "end"
 
             }
