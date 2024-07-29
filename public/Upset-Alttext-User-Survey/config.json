@@ -220,8 +220,7 @@
         "Training":{
             "type": "markdown",
             "nextButtonLocation": "sidebar",
-            "instruction": "Please answer the following questions:",
-            "provideFeedback": true       
+            "instruction": "Please answer the following questions:"     
         }
     },
     "components": {
@@ -271,6 +270,7 @@
         "Training 1":{
             "baseComponent": "Training",
             "path": "Upset-Alttext-User-Survey/assets/training1.md",
+            "provideFeedback": true,
             "response": [
                 {
                     "id": "1",
@@ -399,6 +399,7 @@
         "Training 2":{
             "baseComponent": "Training",
             "path": "Upset-Alttext-User-Survey/assets/training2.md",
+            "provideFeedback": true,
             "response": [
                 {
                     "id": "1",
@@ -515,6 +516,7 @@
         "Training 3":{
             "baseComponent": "Training",
             "path": "Upset-Alttext-User-Survey/assets/training3.md",
+            "provideFeedback": true,
             "response": [
                 {
                     "id": "1",
