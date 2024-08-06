@@ -16,6 +16,8 @@
         "contactEmail": "test@test.com",
         "helpTextPath": "Upset-Alttext-User-Survey/assets/upset.md",
         "logoPath": "revisitAssets/revisitLogoSquare.svg",
+        "urlParticipantIdParam": "PROLIFIC_PID",
+        "studyEndMsg": "**Thank you for completing the study. You may click this link and return to Prolific**: [https://app.prolific.com/submissions/complete?cc=CVRK3FRJ](https://app.prolific.com/submissions/complete?cc=CVRK3FRJ)",
         "withProgressBar": true,
         "autoDownloadStudy": false,
         "sidebar": true,
@@ -236,11 +238,12 @@
             "response": [
                 {
                     "id": "id",
-                    "prompt": "Your Prolific ID",
+                    "prompt": "Please enter your Prolific ID",
                     "required": true,
                     "location": "belowStimulus",
                     "type": "shortText",
-                    "placeholder": "Please provide your prolific id"
+                    "placeholder": "Prolific ID",
+                    "paramCapture": "PROLIFIC_PID"
                 },
                 {
                     "id": "consent",
