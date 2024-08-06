@@ -847,7 +847,41 @@
                     ]
                 }
             ],
-            "path": "Upset-Alttext-User-Survey/assets/covidVis.md"
+            "path": "Upset-Alttext-User-Survey/assets/covidVis.md",
+            "correctAnswer": [
+                {
+                    "id": "voq1",
+                    "answer": "6"
+                },
+                {
+                    "id": "voq2",
+                    "answer": "Fatigue"
+                },
+                {
+                    "id": "voq3",
+                    "answer": "Anosmia, Fatigue"
+                },
+                {
+                    "id": "voq4",
+                    "answer": "281"
+                },
+                {
+                    "id": "voq5",
+                    "answer": "It is the intersection of 2-3 sets"
+                },
+                {
+                    "id": "voq6",
+                    "answer": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)"
+                },
+                {
+                    "id": "voq7",
+                    "answer": "Yes"
+                },
+                {
+                    "id": "voq8",
+                    "answer": "Yes"
+                }
+            ]
         },
         "Covid-Vis-Q2": {
             "baseComponent": "VO-image3",
@@ -1040,6 +1074,40 @@
                         }
                         
                     ]
+                }
+            ],
+            "correctAnswer": [
+                {
+                    "id": "voq1",
+                    "answer": "6"
+                },
+                {
+                    "id": "voq2",
+                    "answer": "Fatigue"
+                },
+                {
+                    "id": "voq3",
+                    "answer": "Anosmia, Fatigue"
+                },
+                {
+                    "id": "voq4",
+                    "answer": "281"
+                },
+                {
+                    "id": "voq5",
+                    "answer": "It is the intersection of 2-3 sets"
+                },
+                {
+                    "id": "voq6",
+                    "answer": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)"
+                },
+                {
+                    "id": "voq7",
+                    "answer": "Yes"
+                },
+                {
+                    "id": "voq8",
+                    "answer": "Yes"
                 }
             ]
         },
@@ -1235,6 +1303,40 @@
                         
                     ]
                 }
+            ],
+            "correctAnswer": [
+                {
+                    "id": "voq1",
+                    "answer": "6"
+                },
+                {
+                    "id": "voq2",
+                    "answer": "Fatigue"
+                },
+                {
+                    "id": "voq3",
+                    "answer": "Anosmia, Fatigue"
+                },
+                {
+                    "id": "voq4",
+                    "answer": "281"
+                },
+                {
+                    "id": "voq5",
+                    "answer": "It is the intersection of 2-3 sets"
+                },
+                {
+                    "id": "voq6",
+                    "answer": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)"
+                },
+                {
+                    "id": "voq7",
+                    "answer": "Yes"
+                },
+                {
+                    "id": "voq8",
+                    "answer": "Yes"
+                }
             ]         
         },
         "Covid-Both-Q2": {
@@ -1410,6 +1512,40 @@
                         }
                         
                     ]
+                }
+            ],
+            "correctAnswer": [
+                {
+                    "id": "voq1",
+                    "answer": "4"
+                },
+                {
+                    "id": "voq2",
+                    "answer": "Australian"
+                },
+                {
+                    "id": "voq3",
+                    "answer": "French Open"
+                },
+                {
+                    "id": "voq4",
+                    "answer": "23"
+                },
+                {
+                    "id": "voq5",
+                    "answer": "It is only of a single set"
+                },
+                {
+                    "id": "voq6",
+                    "answer": "Roughly equal (all the set sizes look similar)"
+                },
+                {
+                    "id": "voq7",
+                    "answer": "No"
+                },
+                {
+                    "id": "voq8",
+                    "answer": "Yes"
                 }
             ]
         },
@@ -1587,8 +1723,41 @@
                         
                     ]
                 }
+            ],
+            "correctAnswer": [
+                {
+                    "id": "voq1",
+                    "answer": "4"
+                },
+                {
+                    "id": "voq2",
+                    "answer": "Australian"
+                },
+                {
+                    "id": "voq3",
+                    "answer": "French Open"
+                },
+                {
+                    "id": "voq4",
+                    "answer": "23"
+                },
+                {
+                    "id": "voq5",
+                    "answer": "It is only of a single set"
+                },
+                {
+                    "id": "voq6",
+                    "answer": "Roughly equal (all the set sizes look similar)"
+                },
+                {
+                    "id": "voq7",
+                    "answer": "No"
+                },
+                {
+                    "id": "voq8",
+                    "answer": "Yes"
+                }
             ]
-            
         },
         "Tennis-Text-Q2": {
             "baseComponent": "TO-text3",
@@ -1762,6 +1931,40 @@
                         }
                         
                     ]
+                }
+            ],
+            "correctAnswer": [
+                {
+                    "id": "voq1",
+                    "answer": "4"
+                },
+                {
+                    "id": "voq2",
+                    "answer": "Australian"
+                },
+                {
+                    "id": "voq3",
+                    "answer": "French Open"
+                },
+                {
+                    "id": "voq4",
+                    "answer": "23"
+                },
+                {
+                    "id": "voq5",
+                    "answer": "It is only of a single set"
+                },
+                {
+                    "id": "voq6",
+                    "answer": "Roughly equal (all the set sizes look similar)"
+                },
+                {
+                    "id": "voq7",
+                    "answer": "No"
+                },
+                {
+                    "id": "voq8",
+                    "answer": "Yes"
                 }
             ] 
         },
@@ -2596,6 +2799,40 @@
                         
                     ]
                 }
+            ],
+            "correctAnswer": [
+                {
+                    "id": "voq1",
+                    "answer": "8"
+                },
+                {
+                    "id": "voq2",
+                    "answer": "UPU"
+                },
+                {
+                    "id": "voq3",
+                    "answer": "Interpol, UN, UNESCO, UPU, WHO"
+                },
+                {
+                    "id": "voq4",
+                    "answer": "117"
+                },
+                {
+                    "id": "voq5",
+                    "answer": "It is the intersection of many sets"
+                },
+                {
+                    "id": "voq6",
+                    "answer": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)"
+                },
+                {
+                    "id": "voq7",
+                    "answer": "Yes"
+                },
+                {
+                    "id": "voq8",
+                    "answer": "No"
+                }
             ]
         },
         "Organizations-Vis-Q2": {
@@ -2824,6 +3061,40 @@
                         
                     ]
                 }
+            ],
+            "correctAnswer": [
+                {
+                    "id": "voq1",
+                    "answer": "8"
+                },
+                {
+                    "id": "voq2",
+                    "answer": "UPU"
+                },
+                {
+                    "id": "voq3",
+                    "answer": "Interpol, UN, UNESCO, UPU, WHO"
+                },
+                {
+                    "id": "voq4",
+                    "answer": "117"
+                },
+                {
+                    "id": "voq5",
+                    "answer": "It is the intersection of many sets"
+                },
+                {
+                    "id": "voq6",
+                    "answer": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)"
+                },
+                {
+                    "id": "voq7",
+                    "answer": "Yes"
+                },
+                {
+                    "id": "voq8",
+                    "answer": "No"
+                }
             ]
 
         },
@@ -3051,6 +3322,40 @@
                         }
                         
                     ]
+                }
+            ],
+            "correctAnswer": [
+                {
+                    "id": "voq1",
+                    "answer": "8"
+                },
+                {
+                    "id": "voq2",
+                    "answer": "UPU"
+                },
+                {
+                    "id": "voq3",
+                    "answer": "Interpol, UN, UNESCO, UPU, WHO"
+                },
+                {
+                    "id": "voq4",
+                    "answer": "117"
+                },
+                {
+                    "id": "voq5",
+                    "answer": "It is the intersection of many sets"
+                },
+                {
+                    "id": "voq6",
+                    "answer": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)"
+                },
+                {
+                    "id": "voq7",
+                    "answer": "Yes"
+                },
+                {
+                    "id": "voq8",
+                    "answer": "No"
                 }
             ]    
         },
