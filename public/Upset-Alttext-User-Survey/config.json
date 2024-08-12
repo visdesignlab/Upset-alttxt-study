@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v1.0.1/src/parser/StudyConfigSchema.json",
+    "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v1.0.2/src/parser/StudyConfigSchema.json",
     "studyMetadata": {
         "title": "Upset Alttext User Survey",
         "version": "pilot",
@@ -222,7 +222,9 @@
         "Training":{
             "type": "markdown",
             "nextButtonLocation": "sidebar",
-            "instruction": "Please answer the following questions:"     
+            "instruction": "Please answer the following questions:",
+            "trainingAttempts": 3,
+            "allowFailedTraining": true
         }
     },
     "components": {
