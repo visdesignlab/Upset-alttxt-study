@@ -17,7 +17,7 @@
         "helpTextPath": "Upset-Alttext-User-Survey/assets/upset.md",
         "logoPath": "revisitAssets/revisitLogoSquare.svg",
         "urlParticipantIdParam": "PROLIFIC_PID",
-        "studyEndMsg": "**Thank you for completing the study. You may click this link and return to Prolific**: [https://app.prolific.com/submissions/complete?cc=CVRK3FRJ](https://app.prolific.com/submissions/complete?cc=CVRK3FRJ)",
+        "studyEndMsg": "**Thank you for participating. You may click this link and return to Prolific**: [https://app.prolific.com/submissions/complete?cc=CVRK3FRJ](https://app.prolific.com/submissions/complete?cc=CVRK3FRJ)",
         "withProgressBar": true,
         "autoDownloadStudy": false,
         "sidebar": true,
@@ -350,7 +350,7 @@
                         },
                         {
                             "label": "Empty Intersection (no sets)",
-                            "value": "Empty Intersection"
+                            "value": "Empty Intersection (no sets)"
                         }
                         
                     ]
@@ -366,19 +366,19 @@
                     "options": [
                         {
                             "label": "It is only of a single set",
-                            "value": "Independent set"
+                            "value": "It is only of a single set"
                         },
                         {
                             "label": "It is the intersection of 2-3 sets",
-                            "value": "Low set"
+                            "value": "It is the intersection of 2-3 sets"
                         },
                         {
                             "label": "It is the intersection of many sets",
-                            "value": "Medium / High order set"
+                            "value": "It is the intersection of many sets"
                         },
                         {
                             "label": "It is the empty intersection (no sets)",
-                            "value": "No set"
+                            "value": "It is the empty intersection (no sets)"
                         }
                         
                     ]
@@ -467,7 +467,7 @@
                         },
                         {
                             "label": "Empty Intersection (no sets)",
-                            "value": "Empty Intersection"
+                            "value": "Empty Intersection (no sets)"
                         }
                         
                     ]
@@ -483,19 +483,19 @@
                     "options": [
                         {
                             "label": "It is only of a single set",
-                            "value": "Independent set"
+                            "value": "It is only of a single set"
                         },
                         {
                             "label": "It is the intersection of 2-3 sets",
-                            "value": "Low set"
+                            "value": "It is the intersection of 2-3 sets"
                         },
                         {
                             "label": "It is the intersection of many sets",
-                            "value": "Medium / High order set"
+                            "value": "It is the intersection of many sets"
                         },
                         {
                             "label": "It is the empty intersection (no sets)",
-                            "value": "No set"
+                            "value": "It is the empty intersection (no sets)"
                         }
                         
                     ]
@@ -608,7 +608,7 @@
                         },
                         {
                             "label": "Empty Intersection (no sets)",
-                            "value": "Empty Intersection"
+                            "value": "Empty Intersection (no sets)"
                         }
                         
                     ]
@@ -624,19 +624,19 @@
                     "options": [
                         {
                             "label": "It is only of a single set",
-                            "value": "Independent set"
+                            "value": "It is only of a single set"
                         },
                         {
                             "label": "It is the intersection of 2-3 sets",
-                            "value": "Low set"
+                            "value": "It is the intersection of 2-3 sets"
                         },
                         {
                             "label": "It is the intersection of many sets",
-                            "value": "Medium / High order set"
+                            "value": "It is the intersection of many sets"
                         },
                         {
                             "label": "It is the empty intersection (no sets)",
-                            "value": "No set"
+                            "value": "It is the empty intersection (no sets)"
                         }
                         
                     ]
