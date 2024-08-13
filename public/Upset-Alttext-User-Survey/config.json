@@ -224,7 +224,7 @@
             "nextButtonLocation": "sidebar",
             "instruction": "Please answer the following questions:",
             "trainingAttempts": 3,
-            "allowFailedTraining": true
+            "allowFailedTraining": false
         }
     },
     "components": {
@@ -804,7 +804,7 @@
                     "options": [
                         {
                             "label": "Roughly equal (all the set sizes look similar)",
-                            "value": "Identical"
+                            "value": "Roughly equal"
                         },
                         {
                             "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
@@ -825,11 +825,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                     ]
                 },
@@ -842,11 +842,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                         
                     ]
@@ -864,7 +864,7 @@
                 },
                 {
                     "id": "voq3",
-                    "answer": "Anosmia, Fatigue"
+                    "answer": "Anosmia,Fatigue"
                 },
                 {
                     "id": "voq4",
@@ -876,7 +876,7 @@
                 },
                 {
                     "id": "voq6",
-                    "answer": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)"
+                    "answer": "Diverging a lot"
                 },
                 {
                     "id": "voq7",
@@ -1033,7 +1033,7 @@
                     "options": [
                         {
                             "label": "Roughly equal (all the set sizes look similar)",
-                            "value": "Identical"
+                            "value": "Roughly equal"
                         },
                         {
                             "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
@@ -1054,11 +1054,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                     ]
                 },
@@ -1071,11 +1071,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                         
                     ]
@@ -1092,7 +1092,7 @@
                 },
                 {
                     "id": "voq3",
-                    "answer": "Anosmia, Fatigue"
+                    "answer": "Anosmia,Fatigue"
                 },
                 {
                     "id": "voq4",
@@ -1104,7 +1104,7 @@
                 },
                 {
                     "id": "voq6",
-                    "answer": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)"
+                    "answer": "Diverging a lot"
                 },
                 {
                     "id": "voq7",
@@ -1261,7 +1261,7 @@
                     "options": [
                         {
                             "label": "Roughly equal (all the set sizes look similar)",
-                            "value": "Identical"
+                            "value": "Roughly equal"
                         },
                         {
                             "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
@@ -1282,11 +1282,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                     ]
                 },
@@ -1299,11 +1299,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                         
                     ]
@@ -1320,7 +1320,7 @@
                 },
                 {
                     "id": "voq3",
-                    "answer": "Anosmia, Fatigue"
+                    "answer": "Anosmia,Fatigue"
                 },
                 {
                     "id": "voq4",
@@ -1332,7 +1332,7 @@
                 },
                 {
                     "id": "voq6",
-                    "answer": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)"
+                    "answer": "Diverging a lot"
                 },
                 {
                     "id": "voq7",
@@ -1471,7 +1471,7 @@
                     "options": [
                         {
                             "label": "Roughly equal (all the set sizes look similar)",
-                            "value": "Identical"
+                            "value": "Roughly equal"
                         },
                         {
                             "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
@@ -1492,11 +1492,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                     ]
                 },
@@ -1509,11 +1509,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                         
                     ]
@@ -1542,7 +1542,7 @@
                 },
                 {
                     "id": "voq6",
-                    "answer": "Roughly equal (all the set sizes look similar)"
+                    "answer": "Roughly equal"
                 },
                 {
                     "id": "voq7",
@@ -1681,7 +1681,7 @@
                     "options": [
                         {
                             "label": "Roughly equal (all the set sizes look similar)",
-                            "value": "Identical"
+                            "value": "Roughly equal"
                         },
                         {
                             "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
@@ -1702,11 +1702,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                     ]
                 },
@@ -1719,11 +1719,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                         
                     ]
@@ -1752,7 +1752,7 @@
                 },
                 {
                     "id": "voq6",
-                    "answer": "Roughly equal (all the set sizes look similar)"
+                    "answer": "Roughly equal"
                 },
                 {
                     "id": "voq7",
@@ -1890,7 +1890,7 @@
                     "options": [
                         {
                             "label": "Roughly equal (all the set sizes look similar)",
-                            "value": "Identical"
+                            "value": "Roughly equal"
                         },
                         {
                             "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
@@ -1911,11 +1911,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                     ]
                 },
@@ -1928,11 +1928,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                         
                     ]
@@ -1961,7 +1961,7 @@
                 },
                 {
                     "id": "voq6",
-                    "answer": "Roughly equal (all the set sizes look similar)"
+                    "answer": "Roughly equal"
                 },
                 {
                     "id": "voq7",
@@ -2125,7 +2125,7 @@
                     "options": [
                         {
                             "label": "Roughly equal (all the set sizes look similar)",
-                            "value": "Identical"
+                            "value": "Roughly equal"
                         },
                         {
                             "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
@@ -2146,11 +2146,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                     ]
                 },
@@ -2163,11 +2163,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                         
                     ]
@@ -2327,7 +2327,7 @@
                     "options": [
                         {
                             "label": "Roughly equal (all the set sizes look similar)",
-                            "value": "Identical"
+                            "value": "Roughly equal"
                         },
                         {
                             "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
@@ -2348,11 +2348,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                     ]
                 },
@@ -2365,11 +2365,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                         
                     ]
@@ -2529,7 +2529,7 @@
                     "options": [
                         {
                             "label": "Roughly equal (all the set sizes look similar)",
-                            "value": "Identical"
+                            "value": "Roughly equal"
                         },
                         {
                             "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
@@ -2550,11 +2550,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                     ]
                 },
@@ -2567,11 +2567,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                         
                     ]
@@ -2757,7 +2757,7 @@
                     "options": [
                         {
                             "label": "Roughly equal (all the set sizes look similar)",
-                            "value": "Identical"
+                            "value": "Roughly equal"
                         },
                         {
                             "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
@@ -2778,11 +2778,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                     ]
                 },
@@ -2795,11 +2795,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                         
                     ]
@@ -2816,7 +2816,7 @@
                 },
                 {
                     "id": "voq3",
-                    "answer": "Interpol, UN, UNESCO, UPU, WHO"
+                    "answer": "Interpol,UN,UNESCO,UPU,WHO"
                 },
                 {
                     "id": "voq4",
@@ -2828,7 +2828,7 @@
                 },
                 {
                     "id": "voq6",
-                    "answer": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)"
+                    "answer": "Diverging a lot"
                 },
                 {
                     "id": "voq7",
@@ -3019,7 +3019,7 @@
                     "options": [
                         {
                             "label": "Roughly equal (all the set sizes look similar)",
-                            "value": "Identical"
+                            "value": "Roughly equal"
                         },
                         {
                             "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
@@ -3040,11 +3040,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                     ]
                 },
@@ -3057,11 +3057,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                         
                     ]
@@ -3078,7 +3078,7 @@
                 },
                 {
                     "id": "voq3",
-                    "answer": "Interpol, UN, UNESCO, UPU, WHO"
+                    "answer": "Interpol,UN,UNESCO,UPU,WHO" 
                 },
                 {
                     "id": "voq4",
@@ -3090,7 +3090,7 @@
                 },
                 {
                     "id": "voq6",
-                    "answer": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)"
+                    "answer": "Diverging a lot"
                 },
                 {
                     "id": "voq7",
@@ -3281,7 +3281,7 @@
                     "options": [
                         {
                             "label": "Roughly equal (all the set sizes look similar)",
-                            "value": "Identical"
+                            "value": "Roughly equal"
                         },
                         {
                             "label": "Diverging a bit (the sizes of the largest set and the smallest set don't differ largely)",
@@ -3302,11 +3302,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                     ]
                 },
@@ -3319,11 +3319,11 @@
                     "options": [
                         {
                             "label": "Yes",
-                            "value": "1"
+                            "value": "Yes"
                         },
                         {
                             "label": "No",
-                            "value": "2"
+                            "value": "No"
                         }
                         
                     ]
@@ -3340,7 +3340,7 @@
                 },
                 {
                     "id": "voq3",
-                    "answer": "Interpol, UN, UNESCO, UPU, WHO"
+                    "answer": "Interpol,UN,UNESCO,UPU,WHO"
                 },
                 {
                     "id": "voq4",
@@ -3352,7 +3352,7 @@
                 },
                 {
                     "id": "voq6",
-                    "answer": "Diverging a lot (the sizes of the largest set and the smallest set differ largely)"
+                    "answer": "Diverging a lot"
                 },
                 {
                     "id": "voq7",

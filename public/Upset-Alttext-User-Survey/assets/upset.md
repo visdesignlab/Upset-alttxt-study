@@ -19,7 +19,7 @@ Below you can see examples of how these intersections correspond to the segments
 
 <br>
 
-This layout is great because we can plot the size of the intersections as bar charts right next ot the matrix, as you can see in the following example: 
+This layout is great because we can plot the size of the intersections as bar charts right next to the matrix, as you can see in the following example: 
 
 <img style="height: 400px; width: 531.8px" class="centered-image" src="./assets/concept_3_cardinality.svg" alt="Plotting intersection sizes with bars in UpSet.">
 <br> 
