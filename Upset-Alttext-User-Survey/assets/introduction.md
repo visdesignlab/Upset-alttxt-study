@@ -10,4 +10,4 @@ Our research aims to **make data visualizations more accessible to people with v
 
 We first will introduce what an UpSet plot is, why is it used, how you can interpret an UpSet plot.
 
-To ensure you are comfortable with the actual question-answer session, there will be a training section where you will have up to **three attempts** to answer the questions correctly. If all three attempts are unsuccessful, **you will be redirected to the finish page**.
+To ensure you are comfortable with the actual question-answer session, there will be a training section where you will have up to **three attempts** to answer the questions correctly. If you do no pass the training on your third try, **you can not proceed to the study** and **your answer will not be accepted**. In that case, **we will not be able to pay you** and **you will be automatically redirected to the finish page**.
