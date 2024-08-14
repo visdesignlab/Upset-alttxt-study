@@ -23,7 +23,7 @@ Here you see an example for "Visualization Only". In the sidebar, you can see so
 This UpSet plot shows movies and their genres. A movie can have multiple genres. The sets are movie genres. The items are movies. The intersections show how many movies have exactly the same genres.
 
 <div class="image-container">
-    <img src="./assets/T1.png" alt="Movie Genres" width="600" height="940"/>
+    <img src="./assets/T1.png" alt="Movie Genres" width="610" height="940"/>
 </div>
 
 </body>
