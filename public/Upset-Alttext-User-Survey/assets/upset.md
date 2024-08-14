@@ -2,7 +2,7 @@
 
 # What Is UpSet?
 
-UpSet visualizes set data, as it would be usually displayed in a Venn diagram. However, unlike Venn diagrams, UpSet works for more than three sets. 
+UpSet visualizes set data, as it would usually be displayed in a Venn diagram. However, unlike Venn diagrams, UpSet works for more than three sets. 
 
 
 ## UpSet Explained
@@ -13,7 +13,7 @@ UpSet plots the intersections of a set as a matrix, as shown in the following fi
 
 <br>
 
-Below you can see examples of how these intersections correspond to the segments in a Venn diagram. The first row in the figure is completely empty – it corresponds to all the elements that are in none of the sets. The green (third) row corresponds to the elements that are only in set B, (not in A or C). The orange (fifth) row represents elements that are shared by sets A and B, but not with C. Finally, the last (violet) row represents the elements shared between all sets. 
+Below, you can see examples of how these intersections correspond to the segments in a Venn diagram. The first row in the figure is completely empty – it corresponds to all the elements that are in none of the sets. The green (third) row corresponds to the elements that are only in set B, (not in A or C). The orange (fifth) row represents elements that are shared by sets A and B, but not with C. Finally, the last (violet) row represents the elements shared between all sets. 
 
 <img style="height: 400px; width: 490.5px" class="centered-image" src="./assets/concept_2_intersections.svg" alt="Explaining the intersections in UpSet">
 
@@ -31,7 +31,7 @@ The matrix is also very useful because it can be sorted in various ways. A commo
 <img style="height: 400px; width: 298.4px" class="centered-image" src="./assets/concept_4_sorting.svg" alt="Sorting by cardinality in UpSet">
 
 
-These are the basiscs of UpSet! Next, we'll look at an example like you will see in the study. 
+These are the basics of UpSet! Next, we'll look at an example like the ones you will see in the study. 
  
 ## Interpreting UpSet Plots
 
@@ -41,20 +41,20 @@ The following UpSet plot shows movie genres as intersecting sets.
 <br>
 
 ### Sets and Set Sizes: 
-In this UpSet plot the genres Drama, Comedy, Thrillar, Crime, and Fantasy are the sets. The bars on top indicate that Drama is a large set, but Fantasy is small. 
+In this UpSet plot, the genres Drama, Comedy, Thriller, Crime, and Fantasy are the sets. The bars on top indicate that Drama is a large set, but Fantasy is small. 
 
-In the study, **you will be asked to classify this distribution** using your judgement. Are they: 
+In the study, **you will be asked to classify this distribution** using your judgment. Are they: 
  * Roughly equal, 
  * Diverging a bit, or 
  * Diverging a lot. 
  
- For this example the correct answer is "Diverging a lot". 
+ For this example, the correct answer is "Diverging a lot". 
 
 
 ### Intersection and Intersection Sizes:
 In this UpSet plot, there are 20 intersections that are made up of different sets.
 
-You will be asked about the make-up of these intersection. The categories are
+You will be asked about the make-up of these intersections. The categories are
 * an intersection is made up of **no set**; as shown in the third row with size 854 here (movies that don't have any of the genres shown).
 * an intersection can only contain a **single set**, like the largest one (Drama, with 1198 movies)
 * an intersection can contain **2-3 sets**, like the "Drama-Comedy" intersection with size 212.
